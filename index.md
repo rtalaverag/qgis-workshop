@@ -1,22 +1,25 @@
-# Curso de introducción a QGIS
+# Detalles del curso
 
-Este curso está organizado por la Facultad de Geografía e Historia de la Universidad Complutense de Madrid
-
-
-### Lugar de celebración y fecha
-
+**Nivel:** Básico (No se requiere conocimientos previos)
 **Lugar:** Se realizará de modo virtual mediante Google Meet.
 **Fecha:** 16 de noviembre de 2020
 **Hora:** El curso está programado para una duración de 4 horas pero al ser virtual su duración puede verse reducido.
 
-### Instalación de QGIS
+# Instalación de QGIS
 
 QGIS es un software SIG de escritorio gratuito y libre por lo que podéis descargar el programa desde su web oficial
 
 [https://www.qgis.org/es/site/forusers/download.html](https://www.qgis.org/es/site/forusers/download.html)
 
+[Instalador Windows](https://qgis.org/downloads/QGIS-OSGeo4W-3.10.11-2-Setup-x86_64.exe)
+[Instalador macOS](https://qgis.org/downloads/macos/qgis-macos-ltr.dmg) 
+[Instalador Linux] Accede a la web de descargas para instalar según tu distro
+
 En la web encontraréis instaladores según vuestro sistema operativo (Windows, Mac o Linux)
+
 Respecto a la versión a utilizar en el curso se verá sobre la versión de largo plazo "A Coruña" ya que tienen una mayor estabilidad. Si alguno prefiere instalar una versión más actual no habría inconveniente.
+
+# Contenido del curso
 
 ```
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
