@@ -1,9 +1,9 @@
 # Detalles del curso
 
-**Nivel:** Básico (No se requiere conocimientos previos)
-**Lugar:** Se realizará de modo virtual mediante Google Meet.
-**Fecha:** 16 de noviembre de 2020
-**Hora:** El curso está programado para una duración de 4 horas pero al ser virtual su duración puede verse reducido.
+- **Nivel:** Básico (No se requiere conocimientos previos)
+- **Lugar:** Se realizará de modo virtual mediante Google Meet.
+- **Fecha:** 16 de noviembre de 2020
+- **Hora:** El curso está programado para una duración de 4 horas pero al ser virtual su duración puede verse reducido.
 
 # Instalación de QGIS
 
