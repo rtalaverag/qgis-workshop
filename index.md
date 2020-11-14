@@ -13,7 +13,7 @@ Este curso está organizado por la Facultad de Geografía e Historia de la Unive
 
 QGIS es un software SIG de escritorio gratuito y libre por lo que podéis descargar el programa desde su web oficial
 
-[Link](https://www.qgis.org/es/site/forusers/download.html)
+[https://www.qgis.org/es/site/forusers/download.html](https://www.qgis.org/es/site/forusers/download.html)
 
 En la web encontraréis instaladores según vuestro sistema operativo (Windows, Mac o Linux)
 Respecto a la versión a utilizar en el curso se verá sobre la versión de largo plazo "A Coruña" ya que tienen una mayor estabilidad. Si alguno prefiere instalar una versión más actual no habría inconveniente.
