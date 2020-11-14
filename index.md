@@ -1,7 +1,4 @@
-# Navigation Structure
-{: .no_toc }
-
-## Table of contents
+## Índice
 {: .no_toc .text-delta }
 1. TOC
 {:toc}
