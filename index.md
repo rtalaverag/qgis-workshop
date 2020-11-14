@@ -3,14 +3,14 @@
 * TOC
 {:toc}
 
-# Detalles del curso
+## Detalles del curso
 {:toc}
 - **Nivel:** Básico (No se requiere conocimientos previos)
 - **Lugar:** Se realizará de modo virtual mediante Google Meet.
 - **Fecha:** 16 de noviembre de 2020
 - **Hora:** El curso está programado para una duración de 4 horas pero al ser virtual su duración puede verse reducido.
 
-# Instalación de QGIS
+## Instalación de QGIS
 {:toc}
 Este curso introductorio se realizará sobre la versión de largo plazo "A Coruña" ya que tienen una mayor estabilidad. Si alguno prefiere instalar una versión más actual no habrá problema para poder seguir los contenidos.
 
@@ -22,7 +22,7 @@ QGIS es un software SIG de escritorio gratuito y libre por lo que podéis descar
 - [Instalador macOS](https://qgis.org/downloads/macos/qgis-macos-ltr.dmg) 
 - Instalador Linux: Accede a la web de descargas para instalar según tu distro
 
-# Obejtivos del curso
+## Obejtivos del curso
 {:toc}
 - Dar a conocer QGIS como alternativa al software SIG propietario
 -	Mostrar las diferentes partes de la interfaz y su funcionalidad
@@ -30,11 +30,11 @@ QGIS es un software SIG de escritorio gratuito y libre por lo que podéis descar
 -	Mostrar el flujo de trabajo completo con QGIS para la creación de un mapa
 -	Mostrar diferentes complementos útiles para la adquisición, manipulación, visualización y exportación de datos
 
-# Destinatarios
+## Destinatarios
 {:toc}
 El curso está enfocado y destinado a toda la comunidad universitaria (Personal Docente Investigador y alumnado). 
 
-# Contenido del curso
+## Contenido del curso
 {:toc}
 -	Presentación de QGIS
 -	Introducción a la interfaz y funciones básicas
@@ -43,9 +43,9 @@ El curso está enfocado y destinado a toda la comunidad universitaria (Personal 
 -	Búsqueda y aplicación de complementos para la descarga, análisis y visualización de datos espaciales.
 -	Proceso de composición de mapas y otros formatos de salida
 
-# Recursos
+## Recursos
 {:toc}
-## Webs
+### Webs
 {:toc}
 - [Estilos oficiales para QGIS](https://plugins.qgis.org/styles/)
 - [Plugins](https://plugins.qgis.org/plugins/)
@@ -53,6 +53,6 @@ El curso está enfocado y destinado a toda la comunidad universitaria (Personal 
 - [Web de Anita Graser - Movement Data](https://anitagraser.com/)
 - [QGIS Hub - Styles & layouts](http://qgis-hub.fast-page.org/index.php?i=1)
 
-## Libros
+### Libros
 {:toc}
 - [QGIS Map Desing (Anita Graser & Gretchen N. Peterson)](https://locatepress.com/qmd2)
