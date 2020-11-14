@@ -7,17 +7,17 @@
 
 # Instalación de QGIS
 
+Este curso introductorio se realizará sobre la versión de largo plazo "A Coruña" ya que tienen una mayor estabilidad. Si alguno prefiere instalar una versión más actual no habrá problema para poder seguir los contenidos.
+
 QGIS es un software SIG de escritorio gratuito y libre por lo que podéis descargar el programa desde su web oficial
 
 [https://www.qgis.org/es/site/forusers/download.html](https://www.qgis.org/es/site/forusers/download.html)
 
-[Instalador Windows](https://qgis.org/downloads/QGIS-OSGeo4W-3.10.11-2-Setup-x86_64.exe)
-[Instalador macOS](https://qgis.org/downloads/macos/qgis-macos-ltr.dmg) 
-[Instalador Linux] Accede a la web de descargas para instalar según tu distro
+- [Instalador Windows](https://qgis.org/downloads/QGIS-OSGeo4W-3.10.11-2-Setup-x86_64.exe)
+- [Instalador macOS](https://qgis.org/downloads/macos/qgis-macos-ltr.dmg) 
+- Instalador Linux: Accede a la web de descargas para instalar según tu distro
 
-En la web encontraréis instaladores según vuestro sistema operativo (Windows, Mac o Linux)
 
-Respecto a la versión a utilizar en el curso se verá sobre la versión de largo plazo "A Coruña" ya que tienen una mayor estabilidad. Si alguno prefiere instalar una versión más actual no habría inconveniente.
 
 # Contenido del curso
 
