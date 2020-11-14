@@ -46,7 +46,7 @@ El curso está enfocado y destinado a toda la comunidad universitaria (Personal 
 # Recursos
 {:toc}
 ## Webs
-{:toc}
+{*toc}
 - [Estilos oficiales para QGIS](https://plugins.qgis.org/styles/)
 - [Plugins](https://plugins.qgis.org/plugins/)
 - [Web de Topi Tjukanov](https://tjukanov.org/)
@@ -54,5 +54,5 @@ El curso está enfocado y destinado a toda la comunidad universitaria (Personal 
 - [QGIS Hub - Styles & layouts](http://qgis-hub.fast-page.org/index.php?i=1)
 
 ## Libros
-{:toc}
+{*toc}
 - [QGIS Map Desing (Anita Graser & Gretchen N. Peterson)](https://locatepress.com/qmd2)
