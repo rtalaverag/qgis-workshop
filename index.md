@@ -42,3 +42,17 @@ El curso está enfocado y destinado a toda la comunidad universitaria (Personal 
 -	Uso de herramientas básicas tanto vectorial como ráster
 -	Búsqueda y aplicación de complementos para la descarga, análisis y visualización de datos espaciales.
 -	Proceso de composición de mapas y otros formatos de salida
+
+# Recursos
+{:toc}
+## Webs
+{:toc}
+- [Estilos oficiales para QGIS](https://plugins.qgis.org/styles/)
+- [Plugins](https://plugins.qgis.org/plugins/)
+- [Web de Topi Tjukanov](https://tjukanov.org/)
+- [Web de Anita Graser - Movement Data](https://anitagraser.com/)
+- [QGIS Hub - Styles & layouts](http://qgis-hub.fast-page.org/index.php?i=1)
+
+## Libros
+{:toc}
+- [QGIS Map Desing (Anita Graser & Gretchen N. Peterson)](https://locatepress.com/qmd2)
