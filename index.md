@@ -1,12 +1,12 @@
 # Detalles del curso
-
+{:toc}
 - **Nivel:** Básico (No se requiere conocimientos previos)
 - **Lugar:** Se realizará de modo virtual mediante Google Meet.
 - **Fecha:** 16 de noviembre de 2020
 - **Hora:** El curso está programado para una duración de 4 horas pero al ser virtual su duración puede verse reducido.
 
 # Instalación de QGIS
-
+{:toc}
 Este curso introductorio se realizará sobre la versión de largo plazo "A Coruña" ya que tienen una mayor estabilidad. Si alguno prefiere instalar una versión más actual no habrá problema para poder seguir los contenidos.
 
 QGIS es un software SIG de escritorio gratuito y libre por lo que podéis descargar el programa desde su web oficial
@@ -18,7 +18,7 @@ QGIS es un software SIG de escritorio gratuito y libre por lo que podéis descar
 - Instalador Linux: Accede a la web de descargas para instalar según tu distro
 
 # Obejtivos del curso
-
+{:toc}
 - Dar a conocer QGIS como alternativa al software SIG propietario
 -	Mostrar las diferentes partes de la interfaz y su funcionalidad
 -	Mostrar diferentes herramientas básicas
@@ -26,11 +26,11 @@ QGIS es un software SIG de escritorio gratuito y libre por lo que podéis descar
 -	Mostrar diferentes complementos útiles para la adquisición, manipulación, visualización y exportación de datos
 
 # Destinatarios
-
+{:toc}
 El curso está enfocado y destinado a toda la comunidad universitaria (Personal Docente Investigador y alumnado). 
 
 # Contenido del curso
-
+{:toc}
 -	Presentación de QGIS
 -	Introducción a la interfaz y funciones básicas
 -	Importar diferentes formatos de datos espaciales
