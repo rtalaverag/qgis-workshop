@@ -1,15 +1,25 @@
-## Welcome to GitHub Pages
+## Curso de introducción a QGIS
 
-You can use the [editor on GitHub](https://github.com/rtalaverag/qgis-workshop/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Este curso está organizado por la Facultad de Geografía e Historia de la Universidad Complutense de Madrid
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Lugar de celebración y fecha
 
+**Lugar:** Se realizará de modo virtual mediante Google Meet.
+**Fecha:** 16 de noviembre de 2020
+**Hora:** El curso está programado para una duración de 4 horas pero al ser virtual su duración puede verse reducido.
+
+### Instalación de QGIS
+
+QGIS es un software SIG de escritorio gratuito y libre por lo que podéis descargar el programa desde su web oficial
+
+https://www.qgis.org/es/site/forusers/download.html
+
+En la web encontraréis instaladores según vuestro sistema operativo (Windows, Mac o Linux)
+Respecto a la versión a utilizar en el curso se verá sobre la versión de largo plazo "A Coruña" ya que tienen una mayor estabilidad. Si alguno prefiere instalar una versión más actual no habría inconveniente.
+
+```
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
