@@ -19,7 +19,7 @@ QGIS es un software SIG de escritorio gratuito y libre por lo que podéis descar
 [https://www.qgis.org/es/site/forusers/download.html](https://www.qgis.org/es/site/forusers/download.html)
 
 - [Instalador Windows](https://qgis.org/downloads/QGIS-OSGeo4W-3.10.11-2-Setup-x86_64.exe)
-- [Instalador macOS](https://qgis.org/downloads/macos/qgis-macos-ltr.dmg) 
+- [Instalador macOS](https://qgis.org/downloads/macos/qgis-macos-ltr.dmg)
 - Instalador Linux: Accede a la web de descargas para instalar según tu distro
 
 ## Obejtivos del curso
@@ -32,7 +32,7 @@ QGIS es un software SIG de escritorio gratuito y libre por lo que podéis descar
 
 ## Destinatarios
 {:toc}
-El curso está enfocado y destinado a toda la comunidad universitaria (Personal Docente Investigador y alumnado). 
+El curso está enfocado y destinado a toda la comunidad universitaria (Personal Docente Investigador y alumnado).
 
 ## Contenido del curso
 {:toc}
@@ -49,7 +49,7 @@ El curso está enfocado y destinado a toda la comunidad universitaria (Personal 
 {:toc}
 - [Estilos oficiales para QGIS](https://plugins.qgis.org/styles/)
 - [Plugins](https://plugins.qgis.org/plugins/)
-- [Web de Topi Tjukanov](https://tjukanov.org/)
+- [Web de Topi Tjukanov](https://tjukanov.org/) Promotor del #30daymapchallenge
 - [Web de Anita Graser - Movement Data](https://anitagraser.com/)
 - [QGIS Hub - Styles & layouts](http://qgis-hub.fast-page.org/index.php?i=1)
 
