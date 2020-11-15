@@ -52,6 +52,7 @@ El curso está enfocado y destinado a toda la comunidad universitaria (Personal 
 - [Web de Topi Tjukanov](https://tjukanov.org/) Promotor del #30daymapchallenge
 - [Web de Anita Graser - Movement Data](https://anitagraser.com/)
 - [QGIS Hub - Styles & layouts](http://qgis-hub.fast-page.org/index.php?i=1)
+- [Canal YouTube de Klas Karlsson](https://www.youtube.com/user/klakar70)
 
 ### Libros
 {:toc}
