@@ -12,7 +12,7 @@
 
 ## Instalación de QGIS
 {:toc}
-Este curso introductorio se realizará sobre la versión de largo plazo "A Coruña" ya que tienen una mayor estabilidad. Si alguno prefiere instalar una versión más actual no habrá problema para poder seguir los contenidos.
+Este curso introductorio se realizará sobre la versión última "Hannover" para poder ver algunas de las últimas características presente en el programa. No obstante en ámbito profesional se recomienda utilizar versiones de largo soporte ya que tienen una mayor estabilidad. 
 
 QGIS es un software SIG de escritorio gratuito y libre por lo que podéis descargar el programa desde su web oficial
 
