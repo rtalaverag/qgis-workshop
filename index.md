@@ -87,7 +87,7 @@ XYZ Tiles (Cuidado con el tipo de licencia):
 {:toc}
 Capas de información en diferentes formatos que se utilizarán durante el curso.
 
-
+[Algunas capas del curso](https://github.com/rtalaverag/qgis-workshop/blob/master/Data.zip)
 
 Estas capas han sido descargadas desde webs de datos abiertos
 - [Datos abiertos Ayuntamiento de Madrid](https://datos.madrid.es/portal/site/egob/)
