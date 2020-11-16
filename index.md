@@ -36,15 +36,12 @@ El curso está enfocado y destinado a toda la comunidad universitaria (Personal 
 
 ## Contenido del curso
 {:toc}
-{: .no_toc .text-delta }
-1. TOC2
-{:toc2}
+
 ###	Presentación de QGIS
-{:toc2} 
 ###	Introducción a la interfaz y funciones básicas
 ###	Importar diferentes formatos de datos espaciales
 
-XYZ Tiles: (Cuidado con el tipo de licencia)
+XYZ Tiles (Cuidado con el tipo de licencia):
 - OpenStreetMap: http://a.tile.openstreetmap.org/{z}/{x}/{y}.png
 - OpenStreetMap Mapnick:  http://tile.openstreetmap.org/{z}/{x}/{y}.png
 - OSM Cycle Map: http://tile.thunderforest.com/cycle/{z}/{x}/{y}.png
@@ -71,10 +68,20 @@ XYZ Tiles: (Cuidado con el tipo de licencia)
 - Stamen Toner: http://tile.stamen.com/toner/{z}/{x}/{y}.png
 - Stamen Watercolor: http://tile.stamen.com/watercolor/{z}/{x}/{y}.jpg
 
-
-
 ###	Uso de herramientas básicas tanto vectorial como ráster
 ###	Búsqueda y aplicación de complementos para la descarga, análisis y visualización de datos espaciales.
+
+- QuickMapServices: Mapas bases
+- mmqgis: Herramientas vectoriales
+- Digitizing tools: Herramientas para la digitalización
+- Semi-automatic classification plugin: Clasificación para imágenes de satélite
+- autoSaver: Guardado automático del proyecto
+- Data Plotly: Generación de gráficos
+- QuickOSM: Descarga datos OSM
+- Spanish Inspire Catastral Downloader: Descarga datos catastro
+- LAStools: Herramientas para LIDAR
+- Etc..
+
 ###	Proceso de composición de mapas y otros formatos de salida
 
 ## Materiales
