@@ -51,7 +51,6 @@ XYZ Tiles (Cuidado con el tipo de licencia):
 - [Google Satellite](http://www.google.cn/maps/vt?lyrs=s@189&gl=cn&x={x}&y={y}&z={z})
 - [Google Hybrid](https://mt1.google.com/vt/lyrs=y&x={x}&y={y}&z={z})
 - [Google Terrain](https://mt1.google.com/vt/lyrs=t&x={x}&y={y}&z={z})
-- Google Traffic:'https://mt1.google.com/vt?lyrs=h@159000000,traffic|seconds_into_week:-1&style=3&x={x}&y={y}&z={z}'
 - [Google Roads](https://mt1.google.com/vt/lyrs=h&x={x}&y={y}&z={z})
 - [Bing maps](http://ecn.dynamic.t0.tiles.virtualearth.net/comp/CompositionHandler/{q}?mkt=en-us&it=G,VE,BX,L,LA&shading=hill)
 - [Bing Satélite](http://ecn.t3.tiles.virtualearth.net/tiles/a{q}.jpeg?g=0&dir=dir_n’)
