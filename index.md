@@ -87,6 +87,9 @@ XYZ Tiles (Cuidado con el tipo de licencia):
 ## Materiales
 {:toc}
 Capas de información en diferentes formatos que se utilizarán durante el curso.
+
+
+
 Estas capas han sido descargadas desde webs de datos abiertos
 - [Datos abiertos Ayuntamiento de Madrid](https://datos.madrid.es/portal/site/egob/)
 - [Datos abiertos Comunidad de Madrid](https://www.comunidad.madrid/gobierno/datos-abiertos)
